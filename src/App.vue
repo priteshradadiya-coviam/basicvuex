@@ -52,9 +52,4 @@ h1 {
   margin-top: 0;
 }
 
-.vue-logo {
-  display: block;
-  width: 50px;
-  margin: 0 auto;
-}
 </style>
